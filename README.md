@@ -12,9 +12,11 @@
 | **Best Frame Selector** | ML project to select the sharpest/best frame from a video sequence | Useful in image pre-processing for CV tasks | [Repo 🔗](https://github.com/VaishnaviVadla33/BestVideoFrameSelection_Using_SSIM_PSNR) | Run Locally |
 | **Sign to Human Language Conversation (Ongoing)** | Translates sign language gestures to speech/text using MediaPipe and CV techniques | Enhances communication accessibility for the deaf and hard of hearing | [Repo 🔗](https://github.com/VaishnaviVadla33/SignToText) | In Progress |
 | **QueryBot - Institute Query Assistant** | ML/NLP-based chatbot to answer university-related questions | Reduces workload on administration by auto-answering FAQs | [Repo 🔗](https://github.com/VaishnaviVadla33/SimpleChatBot) | Run Locally |
-| **Mental Health Predictor** | ML model analyzing survey data to predict treatment outcomes | Identifies key indicators in mental health for support strategies | [Repo 🔗](https://github.com/VaishnaviVadla33/MentalHealth_Predictor) | Run Locally |
-| **Retail Insights Dashboard (Power BI)** | Dashboard analyzing sales/inventory for Kirana stores | Helps shopkeepers make data-driven decisions | [Repo 🔗](https://github.com/VaishnaviVadla33/KiranaStore_Retail_Dashboard) | View in Power BI |
-| **Customer Churn Analysis** | Predicts customer retention using Random Forest & Regression | Helps telecom companies retain users effectively | [Repo 🔗](https://github.com/VaishnaviVadla33/Customer_Churn_Analysis) | Run Locally |
+| **Mental Health Predictor** | ML model analyzing survey data to predict treatment outcomes | Identifies key indicators in mental health for support strategies | [Repo 🔗](https://github.com/VaishnaviVadla33/MentalHealthPredictor) | Run Locally |
+| **Retail Insights Dashboard (Power BI)** | Dashboard analyzing sales/inventory for Kirana stores | Helps shopkeepers make data-driven decisions | [Repo 🔗](https://github.com/VaishnaviVadla33/KiranaStore_Retail_Dashboard) | --- |
+| **Result Analysis (Power BI)** | Dashboard analysis of student academic performance | provides actionable insights for educators and administrators | [Repo 🔗](https://github.com/VaishnaviVadla33/ResultAnalysis_BI) | --- |
+
+
 
 
 ## 🌐 Socials:
