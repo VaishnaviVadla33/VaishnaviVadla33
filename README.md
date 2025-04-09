@@ -13,7 +13,7 @@
 | **Sign to Human Language Conversation (Ongoing)** | Translates sign language gestures to speech/text using MediaPipe and CV techniques | Enhances communication accessibility for the deaf and hard of hearing | [Repo 🔗](https://github.com/VaishnaviVadla33/SignToText) | In Progress |
 | **QueryBot - Institute Query Assistant** | ML/NLP-based chatbot to answer university-related questions | Reduces workload on administration by auto-answering FAQs | [Repo 🔗](https://github.com/VaishnaviVadla33/SimpleChatBot) | Run Locally |
 | **Mental Health Predictor** | ML model analyzing survey data to predict treatment outcomes | Identifies key indicators in mental health for support strategies | [Repo 🔗](https://github.com/VaishnaviVadla33/MentalHealthPredictor) | Run Locally |
-| **Retail Insights Dashboard (Power BI)** | Dashboard analyzing sales/inventory for Kirana stores | Helps shopkeepers make data-driven decisions | [Repo 🔗](https://github.com/VaishnaviVadla33/KiranaStore_Retail_Dashboard) | --- |
+| **Retail Insights Dashboard (Power BI)** | Dashboard analyzing sales/inventory for Kirana stores | Helps shopkeepers make data-driven decisions | [Repo 🔗](https://github.com/VaishnaviVadla33/KiranaStoreBusinessAnalysis) | --- |
 | **Result Analysis (Power BI)** | Dashboard analysis of student academic performance | provides actionable insights for educators and administrators | [Repo 🔗](https://github.com/VaishnaviVadla33/ResultAnalysis_BI) | --- |
 
 
