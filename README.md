@@ -3,8 +3,6 @@
 
 ## 🚀 Projects
 
-## 🚀 Projects
-
 | Project Name | Description | Use Case | GitHub Repo | Live Demo |
 |--------------|-------------|----------|-------------|-----------|
 | **Digital Wallet Tracker 2.0** | A Flask-based platform that uses OCR (PyTesseract) to extract and analyze transaction data from UPI receipts | Helps users track and visualize spending across categories | [Repo 🔗](https://github.com/VaishnaviVadla33/DigitalWalletTracker02) | [Preview](https://digitalwallettracker02.onrender.com/) *(For full use, run locally)* |
