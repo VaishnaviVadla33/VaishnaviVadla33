@@ -5,7 +5,7 @@
 
 | Project Name | Description | Use Case | GitHub Repo | Live Demo |
 |--------------|-------------|----------|-------------|-----------|
-| **Digital Wallet Tracker 2.0** | A Flask-based platform that uses OCR (PyTesseract) to extract and analyze transaction data from UPI receipts | Helps users track and visualize spending across categories | [Repo 🔗](https://github.com/VaishnaviVadla33/DigitalWalletTracker02) | [Preview](https://digitalwallettracker02.onrender.com/) *(For full use, run locally)* |
+| **Digital Wallet Tracker 2.0** | A Flask-based platform that uses OCR (PyTesseract) to extract and analyze transaction data from UPI receipts | Helps users track and visualize spending across categories | [Repo 🔗](https://github.com/VaishnaviVadla33/DigitalWalletTracker02) | [Preview](https://digitalwallettracker02.onrender.com/) *(Can view only dashboard and history table.For full use, run locally)* |
 | **QuickChecker (Attendance System)** | GUI-based tool to track attendance and generate visual insights | Streamlines manual attendance process in academic departments | [Repo 🔗](https://github.com/VaishnaviVadla33/Attendance_QuickCheck) | Run Locally |
 | **Vendor Map Project** | Locator for vegetable and fruit vendors using Google Maps API | Allows users to find local vendors with accurate geolocation | [Repo 🔗](https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator) | [Live 🔗](https://vaishnavivadla33.github.io/Vegetable_Fruit_vendors_Locator/) |
 | **Automated Timetable Generator (Ongoing)** | Generates conflict-free academic schedules using Flask and Firebase | Automatically schedules classes avoiding faculty clashes | [Repo 🔗](https://github.com/VaishnaviVadla33/TimeTableSheduler) | In Progress |
