@@ -1,6 +1,23 @@
 # 💫 About Me:
 🎓 Student | Aspiring Data Engineer & ML Engineer<br>📍 BTech CSE (Data Science) | NMIMS Hyderabad<br><br>🔹 Currently working on: A Sign to Fluent Human Conversation project that translates sign language into speech/text using machine learning and computer vision.<br>🔹 Tech stack: C++, Python, R, HTML, CSS, JavaScript, Flask, TensorFlow, SQL, MongoDB/Firebase.<br>🔹 Interests: Machine Learning, Python Web Development, and Problem-Solving.<br>🔹 Projects: Digital Wallet Tracker, Automated Timetable Generator, Vendor Map Project.<br>🔹 Looking to collaborate on: ML models, data science projects, and python based web applications.<br>🔹 Fun fact: I enjoy breaking down complex problems and making tech fun!
 
+## 🚀 Projects
+
+## 🚀 Projects
+
+| Project Name | Description | Use Case | GitHub Repo | Live Demo |
+|--------------|-------------|----------|-------------|-----------|
+| **Digital Wallet Tracker 2.0** | A Flask-based platform that uses OCR (PyTesseract) to extract and analyze transaction data from UPI receipts | Helps users track and visualize spending across categories | [Repo 🔗](https://github.com/VaishnaviVadla33/DigitalWalletTracker02) | [Preview](https://digitalwallettracker02.onrender.com/) *(For full use, run locally)* |
+| **QuickChecker (Attendance System)** | GUI-based tool to track attendance and generate visual insights | Streamlines manual attendance process in academic departments | [Repo 🔗](https://github.com/VaishnaviVadla33/Attendance_QuickCheck) | Run Locally |
+| **Vendor Map Project** | Locator for vegetable and fruit vendors using Google Maps API | Allows users to find local vendors with accurate geolocation | [Repo 🔗](https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator) | [Live 🔗](https://vaishnavivadla33.github.io/Vegetable_Fruit_vendors_Locator/) |
+| **Automated Timetable Generator (Ongoing)** | Generates conflict-free academic schedules using Flask and Firebase | Automatically schedules classes avoiding faculty clashes | [Repo 🔗](https://github.com/VaishnaviVadla33/TimeTableSheduler) | In Progress |
+| **Best Frame Selector** | ML project to select the sharpest/best frame from a video sequence | Useful in image pre-processing for CV tasks | [Repo 🔗](https://github.com/VaishnaviVadla33/BestVideoFrameSelection_Using_SSIM_PSNR) | Run Locally |
+| **Sign to Human Language Conversation (Ongoing)** | Translates sign language gestures to speech/text using MediaPipe and CV techniques | Enhances communication accessibility for the deaf and hard of hearing | [Repo 🔗](https://github.com/VaishnaviVadla33/SignToText) | In Progress |
+| **QueryBot - Institute Query Assistant** | ML/NLP-based chatbot to answer university-related questions | Reduces workload on administration by auto-answering FAQs | [Repo 🔗](https://github.com/VaishnaviVadla33/SimpleChatBot) | Run Locally |
+| **Mental Health Predictor** | ML model analyzing survey data to predict treatment outcomes | Identifies key indicators in mental health for support strategies | [Repo 🔗](https://github.com/VaishnaviVadla33/MentalHealth_Predictor) | Run Locally |
+| **Retail Insights Dashboard (Power BI)** | Dashboard analyzing sales/inventory for Kirana stores | Helps shopkeepers make data-driven decisions | [Repo 🔗](https://github.com/VaishnaviVadla33/KiranaStore_Retail_Dashboard) | View in Power BI |
+| **Customer Churn Analysis** | Predicts customer retention using Random Forest & Regression | Helps telecom companies retain users effectively | [Repo 🔗](https://github.com/VaishnaviVadla33/Customer_Churn_Analysis) | Run Locally |
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavivadla/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VV_Algos?t=6cUkIuT1PehtLYcQDpfZ_Q&s=08 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnavivadla33@gmail.com) 
