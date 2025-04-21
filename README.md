@@ -18,11 +18,60 @@
 
 ## 📜 Certifications
 
-- 🟡 [AWS Academy Cloud Foundations – Badge](https://www.credly.com/badges/your-badge-id)  
-  <img src="https://images.credly.com/size/340x340/images/your-badge-image.png" width="120" alt="AWS Badge"/>
+- [AWS Academy Cloud Foundations – Badge](https://www.credly.com/badges/d6ccadbb-f12b-4296-845b-b3ef05b4002a/public_url)  
+- [NPTEL: Joy of Computing using Python - Certificate](https://nptel.ac.in/noc/E_Certificate/NPTEL23CS108S53740281720429928)
+- [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/e14b2309a2bf693ce2f1e3d7c59b360b84b2bb22fc129f07700bad10d298d23a)
 
-- 🧠 [NPTEL: Machine Learning - Certificate](https://nptel.ac.in/noc/E_Certificate/NOC23-CS123/your-cert-id.pdf)  
-  ![NPTEL Certificate](https://img.shields.io/badge/NPTEL-Machine%20Learning-blue?style=for-the-badge&logo=nptel&logoColor=white)
+# 🏆 Certifications & Achievements
+
+<div align="center">
+
+## 🔹 Cloud & DevOps 🔹
+
+<img align="right" width="180" src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"/>
+
+### AWS Academy Cloud Foundations
+**Issued by Amazon Web Services**  
+*Foundational understanding of AWS Cloud concepts, services, and security*
+
+[**Verify Badge →**](https://www.credly.com/badges/d6ccadbb-f12b-4296-845b-b3ef05b4002a/public_url)
+
+<br clear="all"/>
+
+---
+
+## 🔹 Programming & Computer Science 🔹
+
+<img align="left" width="180" src="https://www.nptel.ac.in/content/noc/NOC22/SEM2/Miscellaneous/production_uploads/Course_banner/Course_banner-1658734866.png"/>
+
+### Joy of Computing using Python
+**Issued by NPTEL**  
+*Comprehensive understanding of Python programming concepts and applications*
+
+[**Verify Certificate →**](https://nptel.ac.in/noc/E_Certificate/NPTEL23CS108S53740281720429928)
+
+<br clear="all"/>
+
+---
+
+## 🔹 Data Science & Analytics 🔹
+
+<img align="right" width="180" src="https://media.licdn.com/dms/image/D560BAQE5liqyisZDPQ/company-logo_200_200/0/1688681278797/microsoft_logo?e=1721260800&v=beta&t=76IZ5bJwehVi3tpZGLPEGdMPzqzmp2SSo8SEgJ2WxPY"/>
+
+### Career Essentials in Data Analysis
+**Issued by Microsoft and LinkedIn**  
+*Skills in data analysis techniques, tools, and methodologies for data-driven decision making*
+
+[**Verify Certificate →**](https://www.linkedin.com/learning/certificates/e14b2309a2bf693ce2f1e3d7c59b360b84b2bb22fc129f07700bad10d298d23a)
+
+</div>
+
+<!-- 
+Tech Skills Represented:
+✅ Cloud Computing (AWS)
+✅ Python Programming
+✅ Data Analysis
+-->
 
 
 ## 🌐 Socials:
