@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎓 Student | Aspiring Data Engineer & ML Engineer<br>📍 BTech CSE (Data Science) | NMIMS Hyderabad<br><br>🔹 Currently working on: A Sign to Fluent Human Conversation project that translates sign language into speech/text using machine learning and computer vision.<br>🔹 Tech stack: C++, Python, R, HTML, CSS, JavaScript, Flask, TensorFlow, SQL, MongoDB/Firebase.<br>🔹 Interests: Machine Learning, Python Web Development, and Problem-Solving.<br> 🔹 Looking to collaborate on: ML models, data science projects, and python based web applications.<br>🔹 Fun fact: I enjoy breaking down complex problems and making tech fun!
 
-## 🚀 Projects
+##  Projects
 
 | Project Name | Description | Use Case | GitHub Repo | Live Demo |
 |--------------|-------------|----------|-------------|-----------|
@@ -16,64 +16,27 @@
 | **Retail Insights Dashboard (Power BI)** | Dashboard analyzing sales/inventory for Kirana stores | Helps shopkeepers make data-driven decisions | [Repo 🔗](https://github.com/VaishnaviVadla33/KiranaStoreBusinessAnalysis) | --- |
 | **Result Analysis (Power BI)** | Dashboard analysis of student academic performance | provides actionable insights for educators and administrators | [Repo 🔗](https://github.com/VaishnaviVadla33/ResultAnalysis_BI) | --- |
 
-## 📜 Certifications
-
-- [AWS Academy Cloud Foundations – Badge](https://www.credly.com/badges/d6ccadbb-f12b-4296-845b-b3ef05b4002a/public_url)  
-- [NPTEL: Joy of Computing using Python - Certificate](https://nptel.ac.in/noc/E_Certificate/NPTEL23CS108S53740281720429928)
-- [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/e14b2309a2bf693ce2f1e3d7c59b360b84b2bb22fc129f07700bad10d298d23a)
-
-# 🏆 Certifications & Achievements
+##  Certifications
 
 <div align="center">
 
-## 🔹 Cloud & DevOps 🔹
-
-<img align="right" width="180" src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"/>
-
-### AWS Academy Cloud Foundations
-**Issued by Amazon Web Services**  
-*Foundational understanding of AWS Cloud concepts, services, and security*
-
-[**Verify Badge →**](https://www.credly.com/badges/d6ccadbb-f12b-4296-845b-b3ef05b4002a/public_url)
-
-<br clear="all"/>
-
----
-
-## 🔹 Programming & Computer Science 🔹
-
-<img align="left" width="180" src="https://www.nptel.ac.in/content/noc/NOC22/SEM2/Miscellaneous/production_uploads/Course_banner/Course_banner-1658734866.png"/>
-
-### Joy of Computing using Python
-**Issued by NPTEL**  
-*Comprehensive understanding of Python programming concepts and applications*
-
-[**Verify Certificate →**](https://nptel.ac.in/noc/E_Certificate/NPTEL23CS108S53740281720429928)
-
-<br clear="all"/>
-
----
-
-## 🔹 Data Science & Analytics 🔹
-
-<img align="right" width="180" src="https://media.licdn.com/dms/image/D560BAQE5liqyisZDPQ/company-logo_200_200/0/1688681278797/microsoft_logo?e=1721260800&v=beta&t=76IZ5bJwehVi3tpZGLPEGdMPzqzmp2SSo8SEgJ2WxPY"/>
-
-### Career Essentials in Data Analysis
-**Issued by Microsoft and LinkedIn**  
-*Skills in data analysis techniques, tools, and methodologies for data-driven decision making*
-
-[**Verify Certificate →**](https://www.linkedin.com/learning/certificates/e14b2309a2bf693ce2f1e3d7c59b360b84b2bb22fc129f07700bad10d298d23a)
+| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Data Analysis](https://img.shields.io/badge/Data_Analysis-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white) |
+|:---:|:---:|:---:|
 
 </div>
 
-<!-- 
-Tech Skills Represented:
-✅ Cloud Computing (AWS)
-✅ Python Programming
-✅ Data Analysis
--->
+### ✅ AWS Academy Cloud Foundations
+[![AWS Badge](https://img.shields.io/badge/View_Credential-0A66C2?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/d6ccadbb-f12b-4296-845b-b3ef05b4002a/public_url)
+> Foundation in AWS cloud concepts, architecture, security, and services
 
+### ✅ Joy of Computing using Python (NPTEL)
+[![NPTEL Certificate](https://img.shields.io/badge/View_Certificate-00897B?style=flat-square&logo=coursera&logoColor=white)](https://nptel.ac.in/noc/E_Certificate/NPTEL23CS108S53740281720429928)
+> Comprehensive Python programming skills with practical applications
 
+### ✅ Career Essentials in Data Analysis
+[![Microsoft & LinkedIn](https://img.shields.io/badge/View_Certificate-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/certificates/e14b2309a2bf693ce2f1e3d7c59b360b84b2bb22fc129f07700bad10d298d23a)
+> Data analysis techniques and tools by Microsoft and LinkedIn
+> 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavivadla/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VV_Algos?t=6cUkIuT1PehtLYcQDpfZ_Q&s=08 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnavivadla33@gmail.com) 
 
