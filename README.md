@@ -16,7 +16,13 @@
 | **Retail Insights Dashboard (Power BI)** | Dashboard analyzing sales/inventory for Kirana stores | Helps shopkeepers make data-driven decisions | [Repo 🔗](https://github.com/VaishnaviVadla33/KiranaStoreBusinessAnalysis) | --- |
 | **Result Analysis (Power BI)** | Dashboard analysis of student academic performance | provides actionable insights for educators and administrators | [Repo 🔗](https://github.com/VaishnaviVadla33/ResultAnalysis_BI) | --- |
 
+## 📜 Certifications
 
+- 🟡 [AWS Academy Cloud Foundations – Badge](https://www.credly.com/badges/your-badge-id)  
+  <img src="https://images.credly.com/size/340x340/images/your-badge-image.png" width="120" alt="AWS Badge"/>
+
+- 🧠 [NPTEL: Machine Learning - Certificate](https://nptel.ac.in/noc/E_Certificate/NOC23-CS123/your-cert-id.pdf)  
+  ![NPTEL Certificate](https://img.shields.io/badge/NPTEL-Machine%20Learning-blue?style=for-the-badge&logo=nptel&logoColor=white)
 
 
 ## 🌐 Socials:
