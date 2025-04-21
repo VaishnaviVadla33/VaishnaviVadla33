@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎓 Student | Aspiring Data Engineer & ML Engineer<br>📍 BTech CSE (Data Science) | NMIMS Hyderabad<br><br>🔹 Currently working on: A Sign to Fluent Human Conversation project that translates sign language into speech/text using machine learning and computer vision.<br>🔹 Tech stack: C++, Python, R, HTML, CSS, JavaScript, Flask, TensorFlow, SQL, MongoDB/Firebase.<br>🔹 Interests: Machine Learning, Python Web Development, and Problem-Solving.<br> 🔹 Looking to collaborate on: ML models, data science projects, and python based web applications.<br>🔹 Fun fact: I enjoy breaking down complex problems and making tech fun!
 
-##  Projects
+#  Projects
 
 | Project Name | Description | Use Case | GitHub Repo | Live Demo |
 |--------------|-------------|----------|-------------|-----------|
@@ -16,7 +16,7 @@
 | **Retail Insights Dashboard (Power BI)** | Dashboard analyzing sales/inventory for Kirana stores | Helps shopkeepers make data-driven decisions | [Repo 🔗](https://github.com/VaishnaviVadla33/KiranaStoreBusinessAnalysis) | --- |
 | **Result Analysis (Power BI)** | Dashboard analysis of student academic performance | provides actionable insights for educators and administrators | [Repo 🔗](https://github.com/VaishnaviVadla33/ResultAnalysis_BI) | --- |
 
-##  Certifications
+#  Certifications
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 [![Microsoft & LinkedIn](https://img.shields.io/badge/View_Certificate-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/certificates/e14b2309a2bf693ce2f1e3d7c59b360b84b2bb22fc129f07700bad10d298d23a)
 > Data analysis techniques and tools by Microsoft and LinkedIn
 > 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavivadla/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VV_Algos?t=6cUkIuT1PehtLYcQDpfZ_Q&s=08 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnavivadla33@gmail.com) 
 
 # 💻 Tech Stack:
