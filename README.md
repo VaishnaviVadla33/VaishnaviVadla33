@@ -1,4 +1,4 @@
-# <div align="center"> Vaishnavi Vadla </div>
+# <div align="center">✨ Vaishnavi Vadla ✨</div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Data+Engineer;ML+Engineer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
   <br>
@@ -21,12 +21,12 @@
 
 <img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM3MmI1MTBjNmM5OGUwMjI4ZDRjZjQ5ZWY4YmM2ZWMzNDU0NGQzNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- 🔭 **Currently working on:** Sign to Fluent Human Conversation project using ML and CV
-- 🌱 **Learning:** Advanced ML techniques and cloud architecture
-- 💻 **Tech stack:** C++, Python, R, HTML/CSS/JS, Flask, TensorFlow, SQL, MongoDB/Firebase
-- 👯 **Looking to collaborate on:** ML models, data science projects, Python web applications
-- 🧠 **Interests:** Machine Learning, Data Engineering, Web Development, Problem-Solving
-- ⚡ **Fun fact:** I enjoy breaking down complex problems and making tech fun!
+-  **Currently working on:** Sign to Fluent Human Conversation project using ML and CV
+-  **Learning:** Advanced ML techniques and cloud architecture
+-  **Tech stack:** C++, Python, R, HTML/CSS/JS, Flask, TensorFlow, SQL, MongoDB/Firebase
+-  **Looking to collaborate on:** ML models, data science projects, Python web applications
+-  **Interests:** Machine Learning, Data Engineering, Web Development, Problem-Solving
+-  **Fun fact:** I enjoy breaking down complex problems and making tech fun!
 
 <br clear="right"/>
 
