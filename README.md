@@ -1,62 +1,172 @@
-# 💫 About Me:
-🎓 Student | Aspiring Data Engineer & ML Engineer<br>📍 BTech CSE (Data Science) | NMIMS Hyderabad<br><br>🔹 Currently working on: A Sign to Fluent Human Conversation project that translates sign language into speech/text using machine learning and computer vision.<br>🔹 Tech stack: C++, Python, R, HTML, CSS, JavaScript, Flask, TensorFlow, SQL, MongoDB/Firebase.<br>🔹 Interests: Machine Learning, Python Web Development, and Problem-Solving.<br> 🔹 Looking to collaborate on: ML models, data science projects, and python based web applications.<br>🔹 Fun fact: I enjoy breaking down complex problems and making tech fun!
-
-#  Projects
-
-| Project Name | Description | Use Case | GitHub Repo | Live Demo |
-|--------------|-------------|----------|-------------|-----------|
-| **Digital Wallet Tracker 2.0** | A Flask-based platform that uses OCR (PyTesseract) to extract and analyze transaction data from UPI receipts | Helps users track and visualize spending across categories | [Repo 🔗](https://github.com/VaishnaviVadla33/DigitalWalletTracker02) | [Preview](https://digitalwallettracker02.onrender.com/) *(Can view only dashboard and history table.For full use, run locally)* |
-| **QuickChecker (Attendance System)** | GUI-based tool to track attendance and generate visual insights | Streamlines manual attendance process in academic departments | [Repo 🔗](https://github.com/VaishnaviVadla33/Attendance_QuickCheck) | Run Locally |
-| **Vendor Map Project** | Locator for vegetable and fruit vendors using Google Maps API | Allows users to find local vendors with accurate geolocation | [Repo 🔗](https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator) | [Live 🔗](https://vaishnavivadla33.github.io/Vegetable_Fruit_vendors_Locator/) |
-| **Automated Timetable Generator (Ongoing)** | Generates conflict-free academic schedules using Flask and Firebase | Automatically schedules classes avoiding faculty clashes | [Repo 🔗](https://github.com/VaishnaviVadla33/TimeTableSheduler) | In Progress |
-| **Best Frame Selector** | ML project to select the sharpest/best frame from a video sequence | Useful in image pre-processing for CV tasks | [Repo 🔗](https://github.com/VaishnaviVadla33/BestVideoFrameSelection_Using_SSIM_PSNR) | Run Locally |
-| **Sign to Human Language Conversation (Ongoing)** | Translates sign language gestures to speech/text using MediaPipe and CV techniques | Enhances communication accessibility for the deaf and hard of hearing | [Repo 🔗](https://github.com/VaishnaviVadla33/SignToText) | In Progress |
-| **QueryBot - Institute Query Assistant** | ML/NLP-based chatbot to answer university-related questions | Reduces workload on administration by auto-answering FAQs | [Repo 🔗](https://github.com/VaishnaviVadla33/SimpleChatBot) | Run Locally |
-| **Mental Health Predictor** | ML model analyzing survey data to predict treatment outcomes | Identifies key indicators in mental health for support strategies | [Repo 🔗](https://github.com/VaishnaviVadla33/MentalHealthPredictor) | Run Locally |
-| **Retail Insights Dashboard (Power BI)** | Dashboard analyzing sales/inventory for Kirana stores | Helps shopkeepers make data-driven decisions | [Repo 🔗](https://github.com/VaishnaviVadla33/KiranaStoreBusinessAnalysis) | --- |
-| **Result Analysis (Power BI)** | Dashboard analysis of student academic performance | provides actionable insights for educators and administrators | [Repo 🔗](https://github.com/VaishnaviVadla33/ResultAnalysis_BI) | --- |
-
-#  Certifications
-
+# <div align="center">✨ Vaishnavi Vadla ✨</div>
 <div align="center">
-
-| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Data Analysis](https://img.shields.io/badge/Data_Analysis-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white) |
-|:---:|:---:|:---:|
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Data+Engineer;ML+Engineer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <br>
+  <p>🎓 BTech CSE (Data Science) | NMIMS Hyderabad</p>
 </div>
 
-### ✅ AWS Academy Cloud Foundations
-[![AWS Badge](https://img.shields.io/badge/View_Credential-0A66C2?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/d6ccadbb-f12b-4296-845b-b3ef05b4002a/public_url)
-> Foundation in AWS cloud concepts, architecture, security, and services
+<div align="center">
+  <a href="https://www.linkedin.com/in/vaishnavivadla/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/VV_Algos?t=6cUkIuT1PehtLYcQDpfZ_Q&s=08">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" alt="X" />
+  </a>
+  <a href="mailto:vaishnavivadla33@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
+</div>
 
-### ✅ Joy of Computing using Python (NPTEL)
-[![NPTEL Certificate](https://img.shields.io/badge/View_Certificate-00897B?style=flat-square&logo=coursera&logoColor=white)](https://nptel.ac.in/noc/E_Certificate/NPTEL23CS108S53740281720429928)
-> Comprehensive Python programming skills with practical applications
+## <div align="center">💫 About Me</div>
 
-### ✅ Career Essentials in Data Analysis
-[![Microsoft & LinkedIn](https://img.shields.io/badge/View_Certificate-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/certificates/e14b2309a2bf693ce2f1e3d7c59b360b84b2bb22fc129f07700bad10d298d23a)
-> Data analysis techniques and tools by Microsoft and LinkedIn
-> 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavivadla/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VV_Algos?t=6cUkIuT1PehtLYcQDpfZ_Q&s=08 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnavivadla33@gmail.com) 
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM3MmI1MTBjNmM5OGUwMjI4ZDRjZjQ5ZWY4YmM2ZWMzNDU0NGQzNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VaishnaviVadla33&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VaishnaviVadla33&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviVadla33&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- 🔭 **Currently working on:** Sign to Fluent Human Conversation project using ML and CV
+- 🌱 **Learning:** Advanced ML techniques and cloud architecture
+- 💻 **Tech stack:** C++, Python, R, HTML/CSS/JS, Flask, TensorFlow, SQL, MongoDB/Firebase
+- 👯 **Looking to collaborate on:** ML models, data science projects, Python web applications
+- 🧠 **Interests:** Machine Learning, Data Engineering, Web Development, Problem-Solving
+- ⚡ **Fun fact:** I enjoy breaking down complex problems and making tech fun!
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VaishnaviVadla33&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br clear="right"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## <div align="center">🚀 Projects Showcase</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VaishnaviVadla33&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/VaishnaviVadla33/DigitalWalletTracker02">
+          <img src="https://img.shields.io/badge/-Digital_Wallet_Tracker_2.0-05122A?style=flat&logo=flask" width="200"/>
+        </a>
+        <br/>
+        <p>Flask-based platform using OCR to track expenses</p>
+        <p><a href="https://digitalwallettracker02.onrender.com/">🔗 Live Demo</a></p>
+      </td>
+      <td align="center">
+        <a href="https://github.com/VaishnaviVadla33/SignToText">
+          <img src="https://img.shields.io/badge/-Sign_Language_Translator-05122A?style=flat&logo=tensorflow" width="200"/>
+        </a>
+        <br/>
+        <p>Translates sign language to text/speech using CV</p>
+        <p>🚧 In Progress</p>
+      </td>
+      <td align="center">
+        <a href="https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator">
+          <img src="https://img.shields.io/badge/-Vendor_Map_Project-05122A?style=flat&logo=google-maps" width="200"/>
+        </a>
+        <br/>
+        <p>Locator for vegetable/fruit vendors with Google Maps</p>
+        <p><a href="https://vaishnavivadla33.github.io/Vegetable_Fruit_vendors_Locator/">🔗 Live Demo</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/VaishnaviVadla33/TimeTableSheduler">
+          <img src="https://img.shields.io/badge/-Timetable_Generator-05122A?style=flat&logo=firebase" width="200"/>
+        </a>
+        <br/>
+        <p>Automated academic scheduling system</p>
+        <p>🚧 In Progress</p>
+      </td>
+      <td align="center">
+        <a href="https://github.com/VaishnaviVadla33/SimpleChatBot">
+          <img src="https://img.shields.io/badge/-QueryBot_Assistant-05122A?style=flat&logo=chatbot" width="200"/>
+        </a>
+        <br/>
+        <p>ML/NLP chatbot for university questions</p>
+        <p>💻 Run Locally</p>
+      </td>
+      <td align="center">
+        <a href="https://github.com/VaishnaviVadla33/Attendance_QuickCheck">
+          <img src="https://img.shields.io/badge/-QuickChecker-05122A?style=flat&logo=python" width="200"/>
+        </a>
+        <br/>
+        <p>GUI-based attendance tracking system</p>
+        <p>💻 Run Locally</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<details>
+  <summary><b>📂 View All Projects</b></summary>
+  
+  | Project Name | Description | Use Case | GitHub Repo | Live Demo |
+  |--------------|-------------|----------|-------------|-----------|
+  | **Digital Wallet Tracker 2.0** | Flask-based platform that uses OCR (PyTesseract) to extract and analyze transaction data from UPI receipts | Helps users track and visualize spending across categories | [Repo 🔗](https://github.com/VaishnaviVadla33/DigitalWalletTracker02) | [Preview](https://digitalwallettracker02.onrender.com/) |
+  | **QuickChecker (Attendance System)** | GUI-based tool to track attendance and generate visual insights | Streamlines manual attendance process in academic departments | [Repo 🔗](https://github.com/VaishnaviVadla33/Attendance_QuickCheck) | Run Locally |
+  | **Vendor Map Project** | Locator for vegetable and fruit vendors using Google Maps API | Allows users to find local vendors with accurate geolocation | [Repo 🔗](https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator) | [Live 🔗](https://vaishnavivadla33.github.io/Vegetable_Fruit_vendors_Locator/) |
+  | **Automated Timetable Generator** | Generates conflict-free academic schedules using Flask and Firebase | Automatically schedules classes avoiding faculty clashes | [Repo 🔗](https://github.com/VaishnaviVadla33/TimeTableSheduler) | In Progress |
+  | **Best Frame Selector** | ML project to select the sharpest/best frame from a video sequence | Useful in image pre-processing for CV tasks | [Repo 🔗](https://github.com/VaishnaviVadla33/BestVideoFrameSelection_Using_SSIM_PSNR) | Run Locally |
+  | **Sign to Human Language Conversation** | Translates sign language gestures to speech/text using MediaPipe and CV techniques | Enhances communication accessibility for the deaf and hard of hearing | [Repo 🔗](https://github.com/VaishnaviVadla33/SignToText) | In Progress |
+  | **QueryBot - Institute Query Assistant** | ML/NLP-based chatbot to answer university-related questions | Reduces workload on administration by auto-answering FAQs | [Repo 🔗](https://github.com/VaishnaviVadla33/SimpleChatBot) | Run Locally |
+  | **Mental Health Predictor** | ML model analyzing survey data to predict treatment outcomes | Identifies key indicators in mental health for support strategies | [Repo 🔗](https://github.com/VaishnaviVadla33/MentalHealthPredictor) | Run Locally |
+  | **Retail Insights Dashboard** | Power BI dashboard analyzing sales/inventory for Kirana stores | Helps shopkeepers make data-driven decisions | [Repo 🔗](https://github.com/VaishnaviVadla33/KiranaStoreBusinessAnalysis) | --- |
+  | **Result Analysis** | Power BI dashboard analysis of student academic performance | Provides actionable insights for educators and administrators | [Repo 🔗](https://github.com/VaishnaviVadla33/ResultAnalysis_BI) | --- |
+</details>
+
+## <div align="center">🛠️ Tech Stack</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,r,html,css,js,flask,tensorflow" alt="Languages and Frameworks" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,git,github,unity" alt="Tools and Platforms" />
+</div>
+
+## <div align="center">🏆 Achievements & Certifications</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /><br>
+        <a href="https://www.credly.com/badges/d6ccadbb-f12b-4296-845b-b3ef05b4002a/public_url">
+          AWS Academy Cloud Foundations
+        </a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br>
+        <a href="https://nptel.ac.in/noc/E_Certificate/NPTEL23CS108S53740281720429928">
+          Joy of Computing using Python (NPTEL)
+        </a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Data_Analysis-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Data Analysis" /><br>
+        <a href="https://www.linkedin.com/learning/certificates/e14b2309a2bf693ce2f1e3d7c59b360b84b2bb22fc129f07700bad10d298d23a">
+          Career Essentials in Data Analysis
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## <div align="center">📊 GitHub Stats</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviVadla33&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviVadla33&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="38%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VaishnaviVadla33&theme=discord&no-frame=true&no-bg=false&column=4" alt="GitHub Trophies" width="75%" />
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/VaishnaviVadla33/count.svg" alt="Visitor Count" />
+</div>
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaishnaviVadla33&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VaishnaviVadla33&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <p><b>Thanks for visiting my profile! Let's connect! 👨‍💻</b></p>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Header" />
+</div>
