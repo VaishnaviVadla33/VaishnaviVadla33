@@ -1,6 +1,6 @@
 # <div align="center">✨ Vaishnavi Vadla ✨</div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Data+Engineer;ML+Engineer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Aspiring+Data+Engineer;Aspiring+ML+Engineer;Aspiring+python+developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
   <br>
   <p>🎓 BTech CSE (Data Science) | NMIMS Hyderabad</p>
 </div>
@@ -41,7 +41,6 @@
         </a>
         <br/>
         <p>Flask-based platform using OCR to track expenses</p>
-        <p><a href="https://digitalwallettracker02.onrender.com/">🔗 Live Demo</a></p>
       </td>
       <td align="center">
         <a href="https://github.com/VaishnaviVadla33/SignToText">
@@ -57,7 +56,6 @@
         </a>
         <br/>
         <p>Locator for vegetable/fruit vendors with Google Maps</p>
-        <p><a href="https://vaishnavivadla33.github.io/Vegetable_Fruit_vendors_Locator/">🔗 Live Demo</a></p>
       </td>
     </tr>
     <tr>
@@ -75,7 +73,6 @@
         </a>
         <br/>
         <p>ML/NLP chatbot for university questions</p>
-        <p>💻 Run Locally</p>
       </td>
       <td align="center">
         <a href="https://github.com/VaishnaviVadla33/Attendance_QuickCheck">
@@ -83,7 +80,6 @@
         </a>
         <br/>
         <p>GUI-based attendance tracking system</p>
-        <p>💻 Run Locally</p>
       </td>
     </tr>
   </table>
@@ -92,18 +88,18 @@
 <details>
   <summary><b>📂 View All Projects</b></summary>
   
-  | Project Name | Description | Use Case | GitHub Repo | Live Demo |
-  |--------------|-------------|----------|-------------|-----------|
-  | **Digital Wallet Tracker 2.0** | Flask-based platform that uses OCR (PyTesseract) to extract and analyze transaction data from UPI receipts | Helps users track and visualize spending across categories | [Repo 🔗](https://github.com/VaishnaviVadla33/DigitalWalletTracker02) | [Preview](https://digitalwallettracker02.onrender.com/) |
-  | **QuickChecker (Attendance System)** | GUI-based tool to track attendance and generate visual insights | Streamlines manual attendance process in academic departments | [Repo 🔗](https://github.com/VaishnaviVadla33/Attendance_QuickCheck) | Run Locally |
-  | **Vendor Map Project** | Locator for vegetable and fruit vendors using Google Maps API | Allows users to find local vendors with accurate geolocation | [Repo 🔗](https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator) | [Live 🔗](https://vaishnavivadla33.github.io/Vegetable_Fruit_vendors_Locator/) |
-  | **Automated Timetable Generator** | Generates conflict-free academic schedules using Flask and Firebase | Automatically schedules classes avoiding faculty clashes | [Repo 🔗](https://github.com/VaishnaviVadla33/TimeTableSheduler) | In Progress |
-  | **Best Frame Selector** | ML project to select the sharpest/best frame from a video sequence | Useful in image pre-processing for CV tasks | [Repo 🔗](https://github.com/VaishnaviVadla33/BestVideoFrameSelection_Using_SSIM_PSNR) | Run Locally |
-  | **Sign to Human Language Conversation** | Translates sign language gestures to speech/text using MediaPipe and CV techniques | Enhances communication accessibility for the deaf and hard of hearing | [Repo 🔗](https://github.com/VaishnaviVadla33/SignToText) | In Progress |
-  | **QueryBot - Institute Query Assistant** | ML/NLP-based chatbot to answer university-related questions | Reduces workload on administration by auto-answering FAQs | [Repo 🔗](https://github.com/VaishnaviVadla33/SimpleChatBot) | Run Locally |
-  | **Mental Health Predictor** | ML model analyzing survey data to predict treatment outcomes | Identifies key indicators in mental health for support strategies | [Repo 🔗](https://github.com/VaishnaviVadla33/MentalHealthPredictor) | Run Locally |
-  | **Retail Insights Dashboard** | Power BI dashboard analyzing sales/inventory for Kirana stores | Helps shopkeepers make data-driven decisions | [Repo 🔗](https://github.com/VaishnaviVadla33/KiranaStoreBusinessAnalysis) | --- |
-  | **Result Analysis** | Power BI dashboard analysis of student academic performance | Provides actionable insights for educators and administrators | [Repo 🔗](https://github.com/VaishnaviVadla33/ResultAnalysis_BI) | --- |
+  | Project Name | Description | Use Case | GitHub Repo |
+  |--------------|-------------|----------|-------------|
+  | **Digital Wallet Tracker 2.0** | Flask-based platform that uses OCR (PyTesseract) to extract and analyze transaction data from UPI receipts | Helps users track and visualize spending across categories | [Repo 🔗](https://github.com/VaishnaviVadla33/DigitalWalletTracker02) |
+  | **QuickChecker (Attendance System)** | GUI-based tool to track attendance and generate visual insights | Streamlines manual attendance process in academic departments | [Repo 🔗](https://github.com/VaishnaviVadla33/Attendance_QuickCheck) |
+  | **Vendor Map Project** | Locator for vegetable and fruit vendors using Google Maps API | Allows users to find local vendors with accurate geolocation | [Repo 🔗](https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator) |
+  | **Automated Timetable Generator** | Generates conflict-free academic schedules using Flask and Firebase | Automatically schedules classes avoiding faculty clashes | [Repo 🔗](https://github.com/VaishnaviVadla33/TimeTableSheduler) |
+  | **Best Frame Selector** | ML project to select the sharpest/best frame from a video sequence | Useful in image pre-processing for CV tasks | [Repo 🔗](https://github.com/VaishnaviVadla33/BestVideoFrameSelection_Using_SSIM_PSNR) |
+  | **Sign to Human Language Conversation** | Translates sign language gestures to speech/text using MediaPipe and CV techniques | Enhances communication accessibility for the deaf and hard of hearing | [Repo 🔗](https://github.com/VaishnaviVadla33/SignToText) |
+  | **QueryBot - Institute Query Assistant** | ML/NLP-based chatbot to answer university-related questions | Reduces workload on administration by auto-answering FAQs | [Repo 🔗](https://github.com/VaishnaviVadla33/SimpleChatBot) |
+  | **Mental Health Predictor** | ML model analyzing survey data to predict treatment outcomes | Identifies key indicators in mental health for support strategies | [Repo 🔗](https://github.com/VaishnaviVadla33/MentalHealthPredictor) |
+  | **Retail Insights Dashboard** | Power BI dashboard analyzing sales/inventory for Kirana stores | Helps shopkeepers make data-driven decisions | [Repo 🔗](https://github.com/VaishnaviVadla33/KiranaStoreBusinessAnalysis) |
+  | **Result Analysis** | Power BI dashboard analysis of student academic performance | Provides actionable insights for educators and administrators | [Repo 🔗](https://github.com/VaishnaviVadla33/ResultAnalysis_BI) |
 </details>
 
 ## <div align="center">🛠️ Tech Stack</div>
