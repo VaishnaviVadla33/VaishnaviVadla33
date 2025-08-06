@@ -114,7 +114,7 @@
     <td width="50%" valign="top">
       <h3>📅 <a href="https://github.com/VaishnaviVadla33/TimeTableSheduler">Smart Timetable Generator</a></h3>
       <p>A web-based system using Flask and Firebase to automatically generate conflict-free academic schedules for educational institutions. <i>🚧 In Development</i></p>
-      <p> | <b><a href="https://github.com/VaishnaviVadla33/TimeTableSheduler">View Code</a></b></p>
+      <p> <b><a href="https://github.com/VaishnaviVadla33/TimeTableSheduler">View Code</a></b></p>
     </td>
     <td width="50%" valign="top">
       <h3>🗺️ <a href="https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator">Local Vendor Finder</a></h3>
@@ -142,59 +142,6 @@
 | **Academic Performance Dashboard** | Student result analysis and insights | `Power BI`, `DAX` | [Code](https://github.com/VaishnaviVadla33/ResultAnalysis_BI) |
 
 </details>
-
-## 🏆 Professional Certifications
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.credly.com/badges/d6ccadbb-f12b-4296-845b-b3ef05b4002a/public_url">
-        <img src="https://img.shields.io/badge/AWS_Cloud_Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-        <br><b>AWS Academy Graduate</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nptel.ac.in/noc/E_Certificate/NPTEL23CS108S53740281720429928">
-        <img src="https://img.shields.io/badge/Joy_of_Computing-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <br><b>NPTEL Certified</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/learning/certificates/e14b2309a2bf693ce2f1e3d7c59b360b84b2bb22fc129f07700bad10d298d23a">
-        <img src="https://img.shields.io/badge/Data_Analysis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Data Analysis"/>
-        <br><b>LinkedIn Career Essentials</b>
-      </a>
-    </td>
-  </tr>
-</table>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=VaishnaviVadla33&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" height="165"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviVadla33&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviVadla33&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="150"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VaishnaviVadla33&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=15" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
 
 ---
 
