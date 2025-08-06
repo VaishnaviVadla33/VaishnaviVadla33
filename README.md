@@ -1,7 +1,7 @@
 <div align="center">
   <h1>✨ Vaishnavi Vadla ✨</h1>
   <h3>B.Tech CSE (Data Science) Student | NMIMS Hyderabad</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AF5B3&center=true&vCenter=true&width=435&lines=Aspiring+Data+Engineer;Aspiring+ML+Engineer;Aspiring+Python+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AF5B3&center=true&vCenter=true&width=435&lines=Aspiring+Data+Engineer;Aspiring+ML+Engineer;Python+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
   <br>
   <p>
     <a href="https://www.linkedin.com/in/vaishnavivadla/">
@@ -23,13 +23,17 @@
     <td valign="top" width="65%">
       <h2>🚀 About Me</h2>
       <p>
-        I am a passionate and driven Data Science student with a strong foundation in Computer Science. My goal is to build innovative solutions that solve real-world problems. I thrive on breaking down complex challenges into manageable components, whether it's engineering a data pipeline, developing a machine learning model, or creating a dynamic web application.
+        I'm a Computer Science student specializing in Data Science, passionate about turning data into meaningful insights and building practical solutions. My journey in tech began with curiosity about how algorithms can solve everyday problems, and it has evolved into hands-on experience with machine learning, web development, and data analysis.
+      </p>
+      <p>
+        I enjoy the entire process of problem-solving – from understanding the challenge to implementing and testing solutions. Whether it's developing a web application that processes UPI receipts or creating models that recognize sign language, I find excitement in bridging the gap between technology and real-world applications.
       </p>
       <ul>
-        <li>🔭 <b>Currently building:</b> A real-time Sign Language to Speech translator using MediaPipe and TensorFlow.</li>
-        <li>🌱 <b>Always learning:</b> Exploring advanced ML architectures, MLOps principles, and cloud-native technologies on AWS.</li>
-        <li>👯 <b>Open to collaborate on:</b> Data-intensive projects, ML model development, and open-source Python tools.</li>
-        <li>⚡ <b>Fun fact:</b> I believe the best technology is one that feels invisible and intuitive to the user!</li>
+        <li>🔭 <b>Current project:</b> Building a Sign Language to Speech translator using MediaPipe and TensorFlow</li>
+        <li>🌱 <b>Learning:</b> Advanced ML techniques, cloud computing with AWS, and full-stack development</li>
+        <li>👯 <b>Collaboration interests:</b> Data science projects, web applications, and educational tools</li>
+        <li>💡 <b>Belief:</b> The best solutions are simple, effective, and make life easier for users</li>
+        <li>⚡ <b>Fun fact:</b> I debug code better with music on, and I think data visualization is an art form!</li>
       </ul>
     </td>
     <td valign="top" width="35%">
@@ -40,101 +44,131 @@
   </tr>
 </table>
 
-## 🛠️ My Tech Stack
-<p>Technologies and tools I work with to bring ideas to life.</p>
+## 🛠️ Technology Stack
+
 <table>
   <tr>
-    <td align="center" width="200"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,cpp,r,html,css,js" alt="Languages"/></td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Languages-4A90E2?style=for-the-badge&logoColor=white" alt="Languages"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    </td>
   </tr>
   <tr>
-    <td align="center"><b>Frameworks</b></td>
-    <td><img src="https://skillicons.dev/icons?i=flask,tensorflow" alt="Frameworks"/></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Frameworks-FF6B6B?style=for-the-badge&logoColor=white" alt="Frameworks"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    </td>
   </tr>
   <tr>
-    <td align="center"><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="Databases"/></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Databases-4ECDC4?style=for-the-badge&logoColor=white" alt="Databases"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    </td>
   </tr>
   <tr>
-    <td align="center"><b>Tools & Platforms</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,git,github,unity" alt="Tools & Platforms"/></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Tools_&_Cloud-9B59B6?style=for-the-badge&logoColor=white" alt="Tools & Cloud"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+    </td>
   </tr>
 </table>
 
-## 📂 Projects Showcase
-<p>Here are some of the projects I'm proud of. More available in my repositories!</p>
+## 💼 Featured Projects
+
+<p><i>A collection of projects showcasing different aspects of my technical journey</i></p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/VaishnaviVadla33/DigitalWalletTracker02">Digital Wallet Tracker 2.0</a></h3>
-      <p>A Flask web app that uses OCR to extract transaction data from UPI receipts, helping users track and visualize their spending.</p>
+      <h3>🏦 <a href="https://github.com/VaishnaviVadla33/DigitalWalletTracker02">Digital Wallet Tracker 2.0</a></h3>
+      <p>A Flask web app that uses OCR to extract transaction data from UPI receipts, helping users track and visualize their spending patterns with interactive charts.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"/>
         <img src="https://img.shields.io/badge/Tesseract-FF6F00?style=flat&logo=tesseract&logoColor=white" alt="Tesseract"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
       </p>
-      <p><b><a href="https://digitalwallettracker02.onrender.com/">🚀 Live Demo</a></b> | <b><a href="https://github.com/VaishnaviVadla33/DigitalWalletTracker02">🔗 GitHub Repo</a></b></p>
+      <p><b><a href="https://digitalwallettracker02.onrender.com/">🚀 Live Demo</a></b> | <b><a href="https://github.com/VaishnaviVadla33/DigitalWalletTracker02">📱 View Code</a></b></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/VaishnaviVadla33/SignToText">Sign Language Translator</a></h3>
-      <p>Translates sign language gestures into text and speech in real-time using Computer Vision and Deep Learning. 🚧 <i>In Progress</i></p>
+      <h3>🤟 <a href="https://github.com/VaishnaviVadla33/SignToText">Sign Language Translator</a></h3>
+      <p>An ongoing project that translates sign language gestures into text and speech in real-time using Computer Vision and Deep Learning techniques. <i>🚧 In Development</i></p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
         <img src="https://img.shields.io/badge/MediaPipe-007F7C?style=flat&logo=google&logoColor=white" alt="MediaPipe"/>
       </p>
-      <p><b>🚧 In Progress</b> | <b><a href="https://github.com/VaishnaviVadla33/SignToText">🔗 GitHub Repo</a></b></p>
+      <p><b>🛠️ In Progress</b> | <b><a href="https://github.com/VaishnaviVadla33/SignToText">📱 View Code</a></b></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/VaishnaviVadla33/TimeTableSheduler">Automated Timetable Generator</a></h3>
-      <p>A web-based system using Flask and Firebase to automatically generate conflict-free academic schedules for departments. 🚧 <i>In Progress</i></p>
+      <h3>📅 <a href="https://github.com/VaishnaviVadla33/TimeTableSheduler">Smart Timetable Generator</a></h3>
+      <p>A web-based system using Flask and Firebase to automatically generate conflict-free academic schedules for educational institutions. <i>🚧 In Development</i></p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
       </p>
-      <p><b>🚧 In Progress</b> | <b><a href="https://github.com/VaishnaviVadla33/TimeTableSheduler">🔗 GitHub Repo</a></b></p>
+      <p><b>🛠️ In Progress</b> | <b><a href="https://github.com/VaishnaviVadla33/TimeTableSheduler">📱 View Code</a></b></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator">Vendor Map Project</a></h3>
-      <p>A simple yet effective locator for local vegetable and fruit vendors, built with the Google Maps API and vanilla JavaScript.</p>
+      <h3>🗺️ <a href="https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator">Local Vendor Finder</a></h3>
+      <p>A location-based web application that helps users find nearby vegetable and fruit vendors using Google Maps API integration with an intuitive interface.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
         <img src="https://img.shields.io/badge/Maps_API-4285F4?style=flat&logo=googlemaps&logoColor=white" alt="Google Maps API"/>
       </p>
-      <p><b><a href="https://vaishnavivadla33.github.io/Vegetable_Fruit_vendors_Locator/">🚀 Live Demo</a></b> | <b><a href="https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator">🔗 GitHub Repo</a></b></p>
+      <p><b><a href="https://vaishnavivadla33.github.io/Vegetable_Fruit_vendors_Locator/">🚀 Live Demo</a></b> | <b><a href="https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator">📱 View Code</a></b></p>
     </td>
   </tr>
 </table>
 
 <details>
-  <summary><b>📂 Click to see all projects</b></summary>
+  <summary><b>📂 View All Projects</b></summary>
   <br>
   
-| Project Name | Description | Tech Stack | GitHub Repo | Live Demo |
-|--------------|-------------|------------|-------------|-----------|
-| **Digital Wallet Tracker 2.0** | Flask-based platform using OCR to extract & analyze UPI receipt data. | `Python`, `Flask`, `PyTesseract`, `Chart.js` | [Repo 🔗](https://github.com/VaishnaviVadla33/DigitalWalletTracker02) | [Preview](https://digitalwallettracker02.onrender.com/) |
-| **Sign to Human Language** | Translates sign language to speech/text using MediaPipe and CV. | `Python`, `TensorFlow`, `OpenCV`, `MediaPipe` | [Repo 🔗](https://github.com/VaishnaviVadla33/SignToText) | In Progress |
-| **Automated Timetable Generator** | Generates conflict-free academic schedules with Flask and Firebase. | `Python`, `Flask`, `Firebase` | [Repo 🔗](https://github.com/VaishnaviVadla33/TimeTableSheduler) | In Progress |
-| **Vendor Map Project** | Locator for local fruit/vegetable vendors using Google Maps API. | `HTML`, `CSS`, `JavaScript`, `Google Maps API` | [Repo 🔗](https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator) | [Live 🔗](https://vaishnavivadla33.github.io/Vegetable_Fruit_vendors_Locator/) |
-| **QueryBot - Institute Assistant** | ML/NLP chatbot to answer university-related questions. | `Python`, `NLTK`, `TensorFlow` | [Repo 🔗](https://github.com/VaishnaviVadla33/SimpleChatBot) | Run Locally |
-| **QuickChecker (Attendance)** | GUI-based tool to track student attendance and generate insights. | `Python`, `Tkinter`, `Pandas` | [Repo 🔗](https://github.com/VaishnaviVadla33/Attendance_QuickCheck) | Run Locally |
-| **Mental Health Predictor** | ML model to predict mental health treatment outcomes from survey data. | `Python`, `Scikit-learn`, `Pandas` | [Repo 🔗](https://github.com/VaishnaviVadla33/MentalHealthPredictor) | Run Locally |
-| **Best Frame Selector** | Selects the sharpest frame from a video using SSIM & PSNR metrics. | `Python`, `OpenCV` | [Repo 🔗](https://github.com/VaishnaviVadla33/BestVideoFrameSelection_Using_SSIM_PSNR) | Run Locally |
-| **Retail Insights Dashboard** | Power BI dashboard analyzing sales and inventory for Kirana stores. | `Power BI`, `DAX` | [Repo 🔗](https://github.com/VaishnaviVadla33/KiranaStoreBusinessAnalysis) | --- |
-| **Result Analysis Dashboard** | Power BI dashboard for analyzing student academic performance. | `Power BI`, `DAX` | [Repo 🔗](https://github.com/VaishnaviVadla33/ResultAnalysis_BI) | --- |
+| Project Name | Description | Tech Stack | Links |
+|--------------|-------------|------------|-------|
+| **Digital Wallet Tracker 2.0** | OCR-powered UPI receipt analyzer with spending visualization | `Python`, `Flask`, `Tesseract`, `Chart.js` | [Code](https://github.com/VaishnaviVadla33/DigitalWalletTracker02) • [Demo](https://digitalwallettracker02.onrender.com/) |
+| **Sign Language Translator** | Real-time gesture recognition and speech synthesis | `Python`, `TensorFlow`, `OpenCV`, `MediaPipe` | [Code](https://github.com/VaishnaviVadla33/SignToText) |
+| **Smart Timetable Generator** | Automated academic scheduling system | `Python`, `Flask`, `Firebase` | [Code](https://github.com/VaishnaviVadla33/TimeTableSheduler) |
+| **Local Vendor Finder** | Maps-based vendor location service | `HTML`, `CSS`, `JavaScript`, `Google Maps API` | [Code](https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator) • [Demo](https://vaishnavivadla33.github.io/Vegetable_Fruit_vendors_Locator/) |
+| **QueryBot - Campus Assistant** | NLP chatbot for university queries | `Python`, `NLTK`, `TensorFlow` | [Code](https://github.com/VaishnaviVadla33/SimpleChatBot) |
+| **Attendance QuickChecker** | Student attendance tracking and analytics | `Python`, `Tkinter`, `Pandas` | [Code](https://github.com/VaishnaviVadla33/Attendance_QuickCheck) |
+| **Mental Health Predictor** | ML model for treatment outcome prediction | `Python`, `Scikit-learn`, `Pandas` | [Code](https://github.com/VaishnaviVadla33/MentalHealthPredictor) |
+| **Best Frame Selector** | Video frame quality assessment tool | `Python`, `OpenCV` | [Code](https://github.com/VaishnaviVadla33/BestVideoFrameSelection_Using_SSIM_PSNR) |
+| **Retail Analytics Dashboard** | Business intelligence for Kirana stores | `Power BI`, `DAX` | [Code](https://github.com/VaishnaviVadla33/KiranaStoreBusinessAnalysis) |
+| **Academic Performance Dashboard** | Student result analysis and insights | `Power BI`, `DAX` | [Code](https://github.com/VaishnaviVadla33/ResultAnalysis_BI) |
 
 </details>
 
-## 🏆 Certifications & Achievements
+## 🏆 Professional Certifications
 
 <table>
   <tr>
@@ -159,20 +193,28 @@
   </tr>
 </table>
 
-## 📊 My GitHub Stats & Activity
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaishnaviVadla33&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviVadla33&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviVadla33&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="150"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=VaishnaviVadla33&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" height="165"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviVadla33&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviVadla33&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="150"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VaishnaviVadla33&theme=discord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaishnaviVadla33&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VaishnaviVadla33&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
@@ -182,8 +224,7 @@
 ---
 
 <div align="center">
-  <p><b>Thanks for stopping by! Let's connect and build something amazing together.</b></p>
-  <img src="https://profile-counter.glitch.me/VaishnaviVadla33/count.svg" alt="Visitor Count" />
-  <br><br>
+  <h3>💬 Let's Connect and Collaborate</h3>
+  <p><i>Open to discussions about data science, web development, and innovative project ideas!</i></p>
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Header" />
 </div>
