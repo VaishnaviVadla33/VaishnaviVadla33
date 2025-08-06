@@ -103,48 +103,24 @@
     <td width="50%" valign="top">
       <h3>🏦 <a href="https://github.com/VaishnaviVadla33/DigitalWalletTracker02">Digital Wallet Tracker 2.0</a></h3>
       <p>A Flask web app that uses OCR to extract transaction data from UPI receipts, helping users track and visualize their spending patterns with interactive charts.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"/>
-        <img src="https://img.shields.io/badge/Tesseract-FF6F00?style=flat&logo=tesseract&logoColor=white" alt="Tesseract"/>
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
-      </p>
-      <p><b><a href="https://digitalwallettracker02.onrender.com/">🚀 Live Demo</a></b> | <b><a href="https://github.com/VaishnaviVadla33/DigitalWalletTracker02">📱 View Code</a></b></p>
+      <p><b><a href="https://digitalwallettracker02.onrender.com/">Live Demo</a></b> | <b><a href="https://github.com/VaishnaviVadla33/DigitalWalletTracker02">View Code</a></b></p>
     </td>
     <td width="50%" valign="top">
       <h3>🤟 <a href="https://github.com/VaishnaviVadla33/SignToText">Sign Language Translator</a></h3>
-      <p>An ongoing project that translates sign language gestures into text and speech in real-time using Computer Vision and Deep Learning techniques. <i>🚧 In Development</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
-        <img src="https://img.shields.io/badge/MediaPipe-007F7C?style=flat&logo=google&logoColor=white" alt="MediaPipe"/>
-      </p>
-      <p><b>🛠️ In Progress</b> | <b><a href="https://github.com/VaishnaviVadla33/SignToText">📱 View Code</a></b></p>
+      <p>An ongoing project that translates sign language gestures into text and speech in real-time using Computer Vision and Deep Learning techniques. <i>In Development</i></p>
+      <p><b>In Progress</b> | <b><a href="https://github.com/VaishnaviVadla33/SignToText">View Code</a></b></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📅 <a href="https://github.com/VaishnaviVadla33/TimeTableSheduler">Smart Timetable Generator</a></h3>
       <p>A web-based system using Flask and Firebase to automatically generate conflict-free academic schedules for educational institutions. <i>🚧 In Development</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-      </p>
-      <p><b>🛠️ In Progress</b> | <b><a href="https://github.com/VaishnaviVadla33/TimeTableSheduler">📱 View Code</a></b></p>
+      <p> | <b><a href="https://github.com/VaishnaviVadla33/TimeTableSheduler">View Code</a></b></p>
     </td>
     <td width="50%" valign="top">
       <h3>🗺️ <a href="https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator">Local Vendor Finder</a></h3>
       <p>A location-based web application that helps users find nearby vegetable and fruit vendors using Google Maps API integration with an intuitive interface.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/Maps_API-4285F4?style=flat&logo=googlemaps&logoColor=white" alt="Google Maps API"/>
-      </p>
-      <p><b><a href="https://vaishnavivadla33.github.io/Vegetable_Fruit_vendors_Locator/">🚀 Live Demo</a></b> | <b><a href="https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator">📱 View Code</a></b></p>
+      <p><b><a href="https://vaishnavivadla33.github.io/Vegetable_Fruit_vendors_Locator/">Live Demo</a></b> | <b><a href="https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator">View Code</a></b></p>
     </td>
   </tr>
 </table>
