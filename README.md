@@ -33,7 +33,6 @@
         <li>🌱 <b>Learning:</b> Advanced ML techniques, cloud computing with AWS, and full-stack development</li>
         <li>👯 <b>Collaboration interests:</b> Data science projects, web applications, and educational tools</li>
         <li>💡 <b>Belief:</b> The best solutions are simple, effective, and make life easier for users</li>
-        <li>⚡ <b>Fun fact:</b> I debug code better with music on, and I think data visualization is an art form!</li>
       </ul>
     </td>
     <td valign="top" width="35%">
