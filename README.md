@@ -1,7 +1,7 @@
 <div align="center">
   <h1>✨ Vaishnavi Vadla ✨</h1>
   <h3>B.Tech CSE (Data Science) Student | NMIMS Hyderabad</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AF5B3&center=true&vCenter=true&width=435&lines=Aspiring+Data+Engineer;Aspiring+ML+Engineer;Python+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AF5B3&center=true&vCenter=true&width=435&lines=Aspiring+Data+Engineer;Aspiring+ML+Engineer;Web+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
   <br>
   <p>
     <a href="https://www.linkedin.com/in/vaishnavivadla/">
