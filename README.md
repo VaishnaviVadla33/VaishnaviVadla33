@@ -118,7 +118,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🗺️ <a href="https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator">Local Vendor Finder</a></h3>
-      <p>A location-based web application that helps users find nearby vegetable and fruit vendors using Google Maps API integration with an intuitive interface.</p>
+      <p>A location-based web application with AI-Bot that helps users find nearby vegetable and fruit vendors using Google Maps API integration with an intuitive interface.</p>
       <p><b><a href="https://d3ddllzhff5q42.cloudfront.net/">Live Demo</a></b> | <b><a href="https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator">View Code</a></b></p>
     </td>
   </tr>
@@ -133,7 +133,7 @@
 | **Digital Wallet Tracker 2.0** | OCR-powered UPI receipt analyzer with spending visualization | `Python`, `Flask`, `Tesseract`, `Chart.js` | [Code](https://github.com/VaishnaviVadla33/DigitalWalletTracker02) • [Demo](https://digitalwallettracker02.onrender.com/) |
 | **Sign Language Translator** | Real-time gesture recognition and speech synthesis | `Python`, `TensorFlow`, `OpenCV`, `MediaPipe` | [Code](https://github.com/VaishnaviVadla33/SignToText) |
 | **Smart Timetable Generator** | Automated academic scheduling system | `Python`, `Flask`, `Firebase` | [Code](https://github.com/VaishnaviVadla33/TimeTableSheduler) |
-| **Local Vendor Finder** | Maps-based vendor location service | `HTML`, `CSS`, `JavaScript`, `Google Maps API` | [Code](https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator) • [Demo](https://d3ddllzhff5q42.cloudfront.net/) |
+| **Local Vendor Finder** | Maps-based vendor location service with AI Bot | `HTML`, `CSS`, `JavaScript`, `Google Maps API` | [Code](https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator) • [Demo](https://d3ddllzhff5q42.cloudfront.net/) |
 | **QueryBot - Campus Assistant** | NLP chatbot for university queries | `Python`, `NLTK`, `TensorFlow` | [Code](https://github.com/VaishnaviVadla33/SimpleChatBot) |
 | **Attendance QuickChecker** | Student attendance tracking and analytics | `Python`, `Tkinter`, `Pandas` | [Code](https://github.com/VaishnaviVadla33/Attendance_QuickCheck) |
 | **Mental Health Predictor** | ML model for treatment outcome prediction | `Python`, `Scikit-learn`, `Pandas` | [Code](https://github.com/VaishnaviVadla33/MentalHealthPredictor) |
