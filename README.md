@@ -118,7 +118,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🗺️ <a href="https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator">Local Vendor Finder</a></h3>
-      <p>A location-based web application with AI-Bot that helps users find nearby vegetable and fruit vendors using Google Maps API integration with an intuitive interface.</p>
+      <p>A location-based web application with conversational bot that helps users find nearby vegetable and fruit vendors using Google Maps API integration with an intuitive interface.</p>
       <p><b><a href="https://d3ddllzhff5q42.cloudfront.net/">Live Demo</a></b> | <b><a href="https://github.com/VaishnaviVadla33/Vegetable_Fruit_vendors_Locator">View Code</a></b></p>
     </td>
   </tr>
